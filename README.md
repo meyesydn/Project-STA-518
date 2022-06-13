@@ -14,6 +14,8 @@ What ethnicity was the most common?
 
 Is there a vast difference in assigned sex at birth from Jonestown? (only male or female is given on the dataset)
 
+I was also thinking about possibly looking at how long people were members of Jonestown for, but I would love some suggestions on that!
+
 ## Visualizations
 I was thinking about creating a heat map for what state has the most members who were apart of Jonestown. The purpose of this would be able to look at the frequency of birth states
 I also would like to create some sort of frequency table or histogram to show the most common age groups that were found in Jonestown.
