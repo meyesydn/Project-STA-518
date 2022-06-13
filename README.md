@@ -22,6 +22,9 @@ Examples of Visualizations I would like to create:
 
 <img width="595" alt="Screen Shot 2022-06-13 at 7 19 48 PM" src="https://user-images.githubusercontent.com/105237447/173462924-11770b49-2bce-4d75-8ad2-b58ba0f8428e.png">
 
+![download](https://user-images.githubusercontent.com/105237447/173463360-c2eb8dfb-e4e8-4b13-8456-e6659e47ef3f.png)
+
+
 ## Goals
 - To use this data to understand ggplot and other R features. 
 - Creating multiple different types of visulaizations.
