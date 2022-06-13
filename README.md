@@ -18,6 +18,10 @@ Is there a vast difference in Gender from Jonestown? (only male or female is giv
 I was thinking about creating a heat map for what state has the most members who were apart of Jonestown. The purpose of this would be able to look at the frequency of birth states
 I also would like to create some sort of frequency table or histogram to show the most common age groups that were found in Jonestown.
 
+Examples of Visualizations I would like to create:
+
+<img width="595" alt="Screen Shot 2022-06-13 at 7 19 48 PM" src="https://user-images.githubusercontent.com/105237447/173462924-11770b49-2bce-4d75-8ad2-b58ba0f8428e.png">
+
 ## Goals
 - To use this data to understand ggplot and other R features. 
 - Creating multiple different types of visulaizations.
