@@ -12,7 +12,7 @@ What age group was seen the most?
 
 What ethnicity was the most common?
 
-Is there a vast difference in Gender from Jonestown? (only male or female is given on the dataset)
+Is there a vast difference in assigned sex at birth from Jonestown? (only male or female is given on the dataset)
 
 ## Visualizations
 I was thinking about creating a heat map for what state has the most members who were apart of Jonestown. The purpose of this would be able to look at the frequency of birth states
