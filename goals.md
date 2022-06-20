@@ -8,8 +8,8 @@
 - Creating Graphical displays: This will be done by creating my heat map of where all the members of the Jonestown Mascare were born.
 - Creating Numerical Summaries: I can use frequency tables in my analysis of my research questions and present my findings.
 ### Write R programs for simulations from probability models and randomization-based experiments:
--
+- This is one that I am struggling with because I have a census data not a sample. If I was creating a sample then my randomization technique would be important, but there isn't any randomization that was done with a census of data.
 ### Use source documentation and other resources to troubleshoot and extend R programs:
--
+- I have been demonstrating this by being able to ask my teammate for help on certain issues, but I have also been able to within a few google searches find the resolution to any problems that have occured so far in this class. I plan on continuing doing this throughout continuing my project.
 ### Write clear, efficient, and well-documented R programs:
--
+- I plan on following good coding teqnique by having comments explaining what I have done. I also plan on having seperate sections for the seperate graphics I have made (For example: different coding section for my frequency table and my heatmap)
