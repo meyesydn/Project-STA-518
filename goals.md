@@ -13,3 +13,8 @@
 - I have been demonstrating this by being able to ask my teammate for help on certain issues, but I have also been able to within a few google searches find the resolution to any problems that have occured so far in this class. I plan on continuing doing this throughout continuing my project.
 ### Write clear, efficient, and well-documented R programs:
 - I plan on following good coding teqnique by having comments explaining what I have done. I also plan on having seperate sections for the seperate graphics I have made (For example: different coding section for my frequency table and my heatmap)
+
+
+### Overall Questions for Bradford on my Project
+- With where I am going does it seem like to you I will be able to cover all of the learning objectives?
+- Is there anything else you think I should add to my project?
