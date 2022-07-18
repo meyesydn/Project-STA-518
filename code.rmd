@@ -1,1 +1,82 @@
+# Loading tidyverse
+```{r}
+library(tidyverse)
+library(readxl)
+```
+# loading dataset
+```{r loading}
+jonestown <- read_excel("jonestown.xls")
+#states <- read_csv(here::here("STA 518/Activities/activity07-joins/data","states.csv"))
+```
+
+#Proc Freq for birth state
+```{r Birthstate_freq}
+state_freq <- jonestown%>%
+  count(`Birth State`)%>%
+  arrange(.,n)
+```
+# age group
+```{r age_group_freq}
+jonestown%>%
+  count(`age grp`)%>%
+  arrange(.,n)
+```
+
+# Frequency on Ethnicity
+```{r}
+jonestown%>%
+  count(`Ethnic`)%>%
+  arrange(.,n)
+```
+# GGplot Histograms for results from my frequency tables
+```{r install_ggplot}
+
+library(ggplot2)
+
+```
+
+#Histogram for Birth State
+```{r}
+ggplot(data= state_freq) + geom_bar(mapping=aes(x =`Birth State`))
+```
+
+```{r loadUSA}
+USA <- map_data(map = "state", region = "michigan")%>%
+  select(long,lat,group,subregion)
+```
+
+```{r}
+USA%>%
+  summarize(
+    max_lat = max(lat),
+    min_lat = min(lat),
+    max_long = max(long),
+    min_long = min(long),
+  )
+```
+```{r}
+# attemp making a map with dotted point but longitutde and latitude not given only birth state
+USA <- map_data(map = "state", region = "michigan")%>%
+  select(long,lat,group,subregion)
+USA%>%
+  summarize(
+    max_lat = max(lat),
+    min_lat = min(lat),
+    max_long = max(long),
+    min_long = min(long),
+  )
+jonestown <- read_xls(here::here("STA 518/Project-STA-518","jonestown.xls"))
+mi_jones <- jonestown%>%
+  filter(`Birth State` == "MI")
+ggplot(data = mi_jones, aes(x = longitude, y = latitude)) + 
+  geom_point(color = "purple") + 
+  scale_x_continuous(limits = c(-90.5, -82,25)) +
+  scale_y_continuous(limits = c(42,47.5))
+
+```
+
+
+
+
+
 
