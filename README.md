@@ -9,5 +9,5 @@
   -   [To be determined](https://github.com/meyesydn/Project-STA-518/blob/main/Tobe.md)
   -   [Lightning Round](https://github.com/meyesydn/Project-STA-518/blob/main/Lightning.md)
  - [Goals to Complete Learning Objectives](https://github.com/meyesydn/Project-STA-518/blob/main/goals.md)
-- [Jonestown Datafile](https://github.com/meyesydn/Project-STA-518/blob/main/jonestown.xls)
+- [Jonestown Datafile](https://github.com/meyesydn/Project-STA-518/blob/main/jonestown_new.xlsx)
 - [Final Grade](https://github.com/meyesydn/Project-STA-518/blob/main/FinalGrade.md)
