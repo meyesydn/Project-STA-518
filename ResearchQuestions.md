@@ -14,3 +14,6 @@ Is there a vast difference in assigned sex at birth from Jonestown? (only male o
 
 >Yes, there are many more female then males that were present on the day of the massacre. There were 637 females and 371 males. 
 >2 of the members sex assigned at birth were not given and 2 were unborn children. 
+
+
+All of these answers were found using the code file in github, which displays multiple frequency tables.
