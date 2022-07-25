@@ -34,6 +34,7 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   output$bar <- renderPlot({
+    #filter(data=dataset, input$x != "NA")%>%
     ggplot(data = dataset,aes_string(x = input$x, color = input$x)) +
       geom_bar() + geom_text(stat='count', aes(label=..count..), vjust=-1) 
   })
