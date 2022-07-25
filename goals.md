@@ -1,4 +1,4 @@
-# Goals to Complete the Objectives
+# Completed Objectives
 ## Learning Objectives
 ### Import, manage, and clean data:
 - Import: My data file is an excel data file which I have to import into R
