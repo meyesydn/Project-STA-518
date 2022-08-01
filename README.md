@@ -1,6 +1,6 @@
 # Project-STA-518
 ## Abstract
-In this portfolio you will find my work and reflections that I have created to show my skills that I have learned in STA 518. I decided to focus on the tragic massacre that happened in Jonestown. I have created a Shiny App that displays an interactive bar chart. 
+In this portfolio you will find my work and reflections that I have created to show my skills that I have learned in STA 518. I decided to focus on the tragic massacre that happened in Jonestown. I have created a Shiny App that displays an interactive bar chart to help visualize the data. I have also created multiple frequency tables in order to help answer some of my research questions. 
 ## Table of Contents
 
 - [Proposal](https://github.com/meyesydn/Project-STA-518/blob/main/Proposal.md)
