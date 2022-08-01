@@ -1,7 +1,7 @@
 # Completed Objectives
 ## Learning Objectives
 ### Import, manage, and clean data:
-- Import: My data file is an excel data file which I have to import into R
+- Import: My data file is an excel data file which I have to import into R. I did this by using the library readxl, then importing my data using dataset <- read_excel("jonestown_new.xlsx") on my Shiny app. 
 - Manage: In order to create a heatmap of where everyone was born I am going to have to use a States datafile, which will combine more that one data source.
 - Clean Data: Some of the data is not clean or useful when completing my shiny app. For example for gender it was considered different categagories for f and F. I had to go in manually and change this so all variables shared the same case. 
 ### Create graphical displays and numerical summaries of data for exploratory analysis and presentations:
