@@ -11,5 +11,6 @@ In this portfolio you will find my work and reflections that I have created to s
   -   [Growth as a Data Person](https://github.com/meyesydn/Project-STA-518/blob/main/Growth.md)
   -   [Lightning Round](https://github.com/meyesydn/Project-STA-518/blob/main/Lightning.md)
  - [Completed Learning Objectives](https://github.com/meyesydn/Project-STA-518/blob/main/LO.md)
+ - [Frequency Tables](https://github.com/meyesydn/Project-STA-518/blob/main/code.rmd)
 - [Jonestown Datafile](https://github.com/meyesydn/Project-STA-518/blob/main/jonestown_new.xlsx)
 - [Final Grade](https://github.com/meyesydn/Project-STA-518/blob/main/FinalGrade.md)
