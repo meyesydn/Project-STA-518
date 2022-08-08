@@ -8,7 +8,11 @@ dataset <- read_excel("jonestown_new.xlsx")
 - Manage: I have been managing my data by constantly viewing my datafile and updating it once I have made a change on the spread sheet. I also have been isolating information from my large dataset Jonestown_new. This file has a ton of information on it and I have only used a few of the variables and isolated out the unused variables. 
 - Clean Data: Some of the data is not clean or useful when completing my shiny app. For example for gender it was considered different categagories for f and F. I had to go in manually and change this so all variables shared the same case. I used different techniques in order to do this, but mostly on excel I used the find and replace function, but in order to see what I needed to replace I made frequency tables in R to see what the different variable names used were. 
 ### Create graphical displays and numerical summaries of data for exploratory analysis and presentations:
-- Creating Graphical displays: This is occuring in my Shiny App. My Shiny app displays many different bar chart to show a graphical display of multiple different variables. 
+- Creating Graphical displays: This is occuring in my Shiny App. My Shiny app displays many different bar chart to show a graphical display of multiple different variables. I also when creating my graphs went above and beyond by formatting my graphs and making them show a count above each bar and color coding them as well. I completed this by using the following code:
+```
+ggplot(data = dataset,aes_string(x = input$x, color = input$x)) +
+      geom_bar() + geom_text(stat='count', aes(label=..count..), vjust=-1) 
+```
 - Creating Numerical Summaries: I can use frequency tables in my analysis of my research questions and present my findings. I started off completing my project by creating frequency tables to see what the data could tell me just based off of those. 
 ### Write R programs for simulations from probability models and randomization-based experiments:
 - My randomization occured within my shiny app I created. I created an interactive model where the user can select which variable they would like to see a bar chart for. From there the app works behind the scenese to creat a bar chart to display data for whatever variable was selected.
