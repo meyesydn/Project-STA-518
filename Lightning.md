@@ -1,6 +1,6 @@
 # Lightning Round:
 ## What was the most difficult part of the class for you? List a general topic, a specific problem, a kind of work we did, etc. and explain why.
-- The hardest part of class for me at the moment is the R code. This is pretty general and I am sure most of people's problems but R does confuse me, which is normal because it is a new language! I do think I have a pretty good understanding of Github and Markdown, which is a victory for me!
+- The hardest part of class for me at the moment is the R code, specifically shiny apps. At the midterm reflection I was struggling with all of the code in general, but now I can write code for graphs or frequency tavles very quickly.
 ## What was the easiest part of the class for you? Explain why.
 - So far nothing has been super easy for me! I have struggled with most things, but talking and working with my teammate has helped me work through problems. I would say the easiest part of this class for me is the ability to reach out and get help when I need it. I have had an awesome teammate who I feel is very easy to talk to. I also have felt comfortable reaching out to Bradford whenever I am struggling. 
 ## What part of the class surprised or interested you the most? Explain why.
