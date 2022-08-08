@@ -3,3 +3,6 @@ I feel like I have grown as a data person by learning a new language to start wi
 
 
 An example of when I have been struggling and working as a team with Cymbre is with Github. I have struggled a lot with getting R studio and Github to work together. Cymbre has a strong knowledge of Github, so I have been using her as a resource in order to help me with committing and pushing my work to Github. In return to Cymbre helping me with Github I have been helping her with picking what types of graphs will help her display her work the best. I have also helped give her a refresher on some of the statistical terms we have been using. This has not been related to R, but this has helped me grow as a data person because I am working as a team with someone who has a different educational background than me and we have come together and used our strengths to solve our problems. It is more than likely that I will be working on a team that I could be the only statstician, so this practice will help me be more prepared for my like working in a data field. 
+
+
+Another way that I have grown as a data person is through realizing in this field, you will have to adjust your goals and that is okay!
